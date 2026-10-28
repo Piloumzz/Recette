@@ -3,7 +3,7 @@
   "short_name": "Semainier",
   "description": "Planning de repas, batch cooking et liste de courses",
   "lang": "fr",
-  "start_url": "./semainier.html",
+  "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "background_color": "#EEE7D8",
